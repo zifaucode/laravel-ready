@@ -14,7 +14,7 @@
     <meta property="og:title" content="Metronic - Bootstrap 5 HTML, VueJS, React, Angular &amp; Laravel Admin Dashboard Theme" />
     <meta property="og:url" content="https://keenthemes.com/metronic" />
     <meta property="og:site_name" content="zifaucode | dev" />
-    <link rel="shortcut icon" href="../../../fix-theme/assets/media/logos/favicon.ico" />
+    <link rel="shortcut icon" href="../../../fix-theme/assets/media/logos/logo.png" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
     <link href="../../../fix-theme/assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
     <link href="../../../fix-theme/assets/css/style.bundle.css" rel="stylesheet" type="text/css" />
@@ -36,8 +36,8 @@
                             <img alt="Logo" src="../../../fix-theme/assets/media/code.png" class="h-100px" />
                         </a>
                         <h1 class="fw-bolder fs-2qx pb-5 pb-md-10" style="color: #986923;">Selamat Datang</h1>
-                        <p class="fw-bold fs-2" style="color: #986923;">Discover Amazing Metronic
-                            <br />with great build tools
+                        <p class="fw-bold fs-2" style="color: #986923;">Mari Mmebuat web dengan cepat
+                            <br />Dan Efisien.
                         </p>
                         <!--end::Description-->
                     </div>
@@ -58,7 +58,7 @@
                             @csrf
                             <div class="text-center mb-10">
                                 <!--begin::Title-->
-                                <h1 class="text-dark mb-3">Login</h1>
+                                <h1 class="text-dark mb-3">Silahkan Masuk</h1>
 
 
 
@@ -140,7 +140,7 @@
                 <div class="d-flex flex-center flex-wrap fs-6 p-5 pb-0">
                     <!--begin::Links-->
                     <div class="d-flex flex-center fw-bold fs-6">
-                        <a href="https://keenthemes.com" class="text-muted text-hover-primary px-2" target="_blank">Kembali Kehalaman Depan</a>
+                        <a href="/" class="text-muted text-hover-primary px-2" target="_blank">Kembali Kehalaman Depan</a>
 
                     </div>
 

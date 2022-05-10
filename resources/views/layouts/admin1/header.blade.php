@@ -4,8 +4,8 @@
     <!-- LOGO -->
     <div class="topbar-left">
         <a href="index.html" class="logo">
-            <img src="../../../admin1/assets/images/logo.png" alt="" height="20" class="logo-large">
-            <img src="../../../admin1/assets/images/logo-sm.png" alt="" height="22" class="logo-sm">
+            <img src="../../../admin1/assets/images/fauzi.png" alt="" height="30" class="logo-large">
+            <img src="../../../admin1/assets/images/colokan.png" alt="" height="30" class="logo-sm">
         </a>
     </div>
 

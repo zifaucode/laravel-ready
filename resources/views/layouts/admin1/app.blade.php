@@ -11,7 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- App Icons -->
-    <link rel="shortcut icon" href="../../../admin1/assets/images/favicon.ico">
+    <link rel="shortcut icon" href="../../../admin1/assets/images/colokan.png">
 
     <!--Morris Chart CSS -->
     <link rel="stylesheet" href="../../../admin1/plugins/morris/morris.css">

@@ -63,7 +63,7 @@
                             <!--begin::Form-->
 
                             <form @submit.prevent="submitForm">
-                              
+
 
 
                                 <div class="mb-10 text-center">
@@ -168,7 +168,7 @@
                     <div class="d-flex flex-center flex-wrap fs-6 p-5 pb-0">
                         <!--begin::Links-->
                         <div class="d-flex flex-center fw-bold fs-6">
-                            <a href="https://keenthemes.com" class="text-muted text-hover-primary px-2" target="_blank">Kembali Kehalaman Depan</a>
+                            <a href="/" class="text-muted text-hover-primary px-2" target="_blank">Kembali Kehalaman Depan</a>
 
                         </div>
                     </div>
